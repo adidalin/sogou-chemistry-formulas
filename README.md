@@ -1,6 +1,6 @@
 # 搜狗输入法 · 初中化学式自定义短语
 
-> 一套适用于**搜狗输入法**的初中化学式快捷输入配置文件，涵盖单质、氧化物、酸、碱、盐、离子、有机物共 7 大类，约 160 条化学式。
+> 一套适用于**搜狗输入法**的初中化学式快捷输入配置文件，涵盖单质、氧化物、酸、碱、盐、离子、有机物共 7 大类，约 167 条化学式。
 
 ## 快速开始
 
@@ -18,9 +18,9 @@
 | tansuangai | CaCO₃ | 碳酸钙 |
 | qingyanggen | OH⁻ | 氢氧根 |
 | eryanghuatan | CO₂ | 二氧化碳 |
-| yichun | C₂H₅OH | 乙醇 |
+| yichun / jiujing | C₂H₅OH | 乙醇 |
 | anqi | NH₃ | 氨气 |
-| xianlizi | Fe²⁺ | 亚铁离子 |
+| yatielizi | Fe²⁺ | 亚铁离子 |
 
 ## 内容分类一览
 
@@ -62,13 +62,13 @@
 | yanghuahg | HgO | 氧化汞 |
 | yanghuajia | K₂O | 氧化钾 |
 | yanghuamei | MgO | 氧化镁 |
-| yanghuatie | FeO | 氧化亚铁 |
+| yanghuatie | Fe₂O₃ | 氧化铁 |
+| yanghuayatie | FeO | 氧化亚铁 |
 | yanghuatong | CuO | 氧化铜 |
 | yanghuaxin | ZnO | 氧化锌 |
 | yanghuayin | Ag₂O | 氧化银 |
 | yanghuayatong | Cu₂O | 氧化亚铜 |
 | sanyanghuaerlv | Al₂O₃ | 氧化铝 |
-| sanyanghuatie | Fe₂O₃ | 氧化铁 |
 | sanyangsihuatie | Fe₃O₄ | 四氧化三铁 |
 | jiatianshi | CaO | 生石灰 |
 | shui | H₂O | 水 |
@@ -179,7 +179,7 @@
 | tonglizi | Cu²⁺ | 铜离子 |
 | xinlizi | Zn²⁺ | 锌离子 |
 | tielizi | Fe³⁺ | 铁离子 |
-| xianlizi | Fe²⁺ | 亚铁离子 |
+| yatielizi | Fe²⁺ | 亚铁离子 |
 | beilizi | Ba²⁺ | 钡离子 |
 | lvlizi | Al³⁺ | 铝离子 |
 | huayatlizi | Cu⁺ | 亚铜离子 |
@@ -197,24 +197,25 @@
 | liulizi | S²⁻ | 硫离子 |
 | yanglizi | O²⁻ | 氧离子 |
 
-### 有机物 (3 种)
+### 有机物 (4 种)
 
 | 拼音 | 化学式 | 名称 |
 |------|--------|------|
 | jiawan | CH₄ | 甲烷 |
 | yichun | C₂H₅OH | 乙醇 |
+| jiujing | C₂H₅OH | 酒精 |
 | putaotang | C₆H₁₂O₆ | 葡萄糖 |
 
 ## 亚铁 / 铁 对照
 
 | 物质 | 铁 (Fe³⁺) | 亚铁 (Fe²⁺) |
 |------|-----------|-------------|
-| 氧化物 | Fe₂O₃ (sanyanghuatie) | FeO (yanghuatie) |
+| 氧化物 | Fe₂O₃ (yanghuatie) | FeO (yanghuayatie) |
 | 氢氧化物 | Fe(OH)₃ (qingyanghuatie) | Fe(OH)₂ (qingyanghuayatie) |
 | 氯化物 | FeCl₃ (lvhuatie) | FeCl₂ (lvhuayatie) |
 | 硫酸盐 | Fe₂(SO₄)₃ (liusuantie) | FeSO₄ (liusuanyatie) |
 | 碳酸盐 | — | FeCO₃ (tansuanyatie) |
-| 离子 | Fe³⁺ (tielizi) | Fe²⁺ (xianlizi) |
+| 离子 | Fe³⁺ (tielizi) | Fe²⁺ (yatielizi) |
 
 ## 配置文件格式说明
 
