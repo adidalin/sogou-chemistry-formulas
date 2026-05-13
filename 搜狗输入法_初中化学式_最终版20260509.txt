@@ -1,0 +1,166 @@
+;  搜狗输入法--自定义短语配置文件
+;  自定义短语说明：
+;  1、自定义短语支持多行、空格、指定位置。
+;  2、每条自定义短语最多支持30000个汉字，总共支持100000条自定义短语。
+;  3、自定义短语的格式如下：
+;
+;  单行的格式：
+;  字符串+英文逗号+数字（指定排序位置）=短语
+;
+;  具体格式可以参考下面的实例。
+;  4、最多支持100000行自定义短语。
+;
+
+;——————————— 单质 ———————————
+danqi,1=N₂
+yangqi,1=O₂
+qingqi,1=H₂
+lvqi,1=Cl₂
+anqi,1=NH₃
+gai,1=Ca
+gong,1=Hg
+gui,1=Si
+jia,1=K
+lv,1=Al
+lin,1=P
+liu,1=S
+mei,1=Mg
+meng,1=Mn
+na,1=Na
+tie,1=Fe
+tong,1=Cu
+xin,1=Zn
+yin,1=Ag
+bei,1=Ba
+tan,1=C
+haitai,1=He
+yayang,1=Ar
+chouyang,1=O₃
+liutiqi,1=H₂
+;——————————— 氧化物 ———————————
+yanghuabei,1=BaO
+yanghuahg,1=HgO
+yanghuajia,1=K₂O
+yanghuamei,1=MgO
+yanghuatie,1=FeO
+yanghuatong,1=CuO
+yanghuaxin,1=ZnO
+yanghuayin,1=Ag₂O
+yanghuayatong,1=Cu₂O
+sanyanghuaerlv,1=Al₂O₃
+sanyanghuatie,1=Fe₂O₃
+sanyangsihuatie,1=Fe₃O₄
+jiatianshi,1=CaO
+shui,1=H₂O
+yiyanghuatan,1=CO
+eryanghuatan,1=CO₂
+yiyanghuadan,1=NO
+eryanghuadan,1=NO₂
+eryanghualiu,1=SO₂
+sanyanghualiu,1=SO₃
+eryanghuagui,1=SiO₂
+eryanghuameng,1=MnO₂
+wuyanghualin,1=P₂O₅
+eryanghualv,1=ClO₂
+guoyanghuaqing,1=H₂O₂
+;——————————— 酸 ———————————
+yansuan,1=HCl
+liusuan,1=H₂SO₄
+huangqiangshui,1=H₂SO₄
+xiaosuan,1=HNO₃
+tansuan,1=H₂CO₃
+linsuan,1=H₃PO₄
+yaliusuan,1=H₂SO₃
+yisuan,1=CH₃COOH
+;——————————— 碱 ———————————
+qingyanghuana,1=NaOH
+qingyanghuajia,1=KOH
+qingyanghuagai,1=Ca(OH)₂
+qingyanghuabei,1=Ba(OH)₂
+qingyanghualv,1=Al(OH)₃
+qingyanghuamei,1=Mg(OH)₂
+qingyanghuatie,1=Fe(OH)₃
+qingyanghuayatie,1=Fe(OH)₂
+qingyanghuatong,1=Cu(OH)₂
+qingyanghuaxin,1=Zn(OH)₂
+anshui,1=NH₃·H₂O
+;——————————— 盐 ———————————
+lvhuana,1=NaCl
+lvhuajia,1=KCl
+lvhuagai,1=CaCl₂
+lvhuabei,1=BaCl₂
+lvhuamei,1=MgCl₂
+lvhuayin,1=AgCl
+lvhuatie,1=FeCl₃
+lvhuayatie,1=FeCl₂
+lvhuatong,1=CuCl₂
+lvhuaxin,1=ZnCl₂
+lvhuahg,1=HgCl₂
+liusuanjia,1=K₂SO₄
+liusuanna,1=Na₂SO₄
+liusuangai,1=CaSO₄
+liusuanbei,1=BaSO₄
+liusuanyatie,1=FeSO₄
+liusuantie,1=Fe₂(SO₄)₃
+liusuantong,1=CuSO₄
+liusuanxin,1=ZnSO₄
+liusuanmei,1=MgSO₄
+liusuanlv,1=Al₂(SO₄)₃
+liusuanlvjia,1=KAl(SO₄)₂
+liusuanqingjia,1=KHSO₄
+liusuanqingna,1=NaHSO₄
+xiaosuanjia,1=KNO₃
+xiaosuanna,1=NaNO₃
+xiaosuangai,1=Ca(NO₃)₂
+xiaosuanmei,1=Mg(NO₃)₂
+xiaosuantong,1=Cu(NO₃)₂
+xiaosuanyin,1=AgNO₃
+xiaosuanan,1=NH₄NO₃
+tansuanna,1=Na₂CO₃
+tansuangai,1=CaCO₃
+tansuanmei,1=MgCO₃
+tansuanyin,1=Ag₂CO₃
+tansuanyatie,1=FeCO₃
+tansuanqingna,1=NaHCO₃
+tansuanqingan,1=NH₄HCO₃
+yisuanna,1=CH₃COONa
+linsuanqinggai,1=Ca(H₂PO₄)₂
+lvsha,1=NH₄Cl
+liusuanan,1=(NH₄)₂SO₄
+gaomengsuanjia,1=KMnO₄
+mengsuanjia,1=K₂MnO₄
+lvsuanjia,1=KClO₃
+jianshitong,1=Cu₂(OH)₂CO₃
+guanghuashi,1=CaSO₄·2H₂O
+xiayanshi,1=Na₂CO₃·10H₂O
+yaxiaosuanna,1=NaNO₂
+;——————————— 离子 ———————————
+nalizi,1=Na⁺
+jializi,1=K⁺
+gailizi,1=Ca²⁺
+meilizi,1=Mg²⁺
+yinlizi,1=Ag⁺
+tonglizi,1=Cu²⁺
+xinlizi,1=Zn²⁺
+tielizi,1=Fe³⁺
+xianlizi,1=Fe²⁺
+beilizi,1=Ba²⁺
+lvlizi,3=Al³⁺
+huayatlizi,1=Cu⁺
+angen,1=NH₄⁺
+qingyanggen,1=OH⁻
+lvlizi,1=Cl⁻
+xiulizi,1=Br⁻
+fulizi,1=F⁻
+tansuangen,1=CO₃²⁻
+tansuanqinggen,1=HCO₃⁻
+liusuangen,1=SO₄²⁻
+xiaosuangen,1=NO₃⁻
+yaliusuangen,1=SO₃²⁻
+linsuangen,1=PO₄³⁻
+liulizi,1=S²⁻
+yanglizi,1=O²⁻
+;——————————— 有机物 ———————————
+jiawan,1=CH₄
+yichun,1=C₂H₅OH
+putaotang,1=C₆H₁₂O₆
