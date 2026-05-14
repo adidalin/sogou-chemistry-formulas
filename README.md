@@ -10,7 +10,7 @@
 
 **:rocket: 一套适用于搜狗输入法的初中化学式快捷输入配置文件**
 
-涵盖 :atom_symbol: 单质 · :droplet: 氧化物 · :moyai: 酸 · :herb: 碱 · :gem: 盐 · :zap: 离子 · :seedling: 有机物 共 **7 大类 · 167 条化学式**
+涵盖 :atom_symbol: 单质 · :droplet: 氧化物 · :moyai: 酸 · :herb: 碱 · :gem: 盐 · :zap: 离子 · :seedling: 有机物 共 **7 大类 · 175 条化学式**
 
 ---
 
@@ -366,7 +366,7 @@ yanghuatie → Fe₂O₃    yatielizi → Fe²⁺    anqi → NH₃
 
 | :calendar: 日期 | :sparkles: 更新内容 |
 |:---------------:|:-------------------:|
-| 2026-05-13 | :tada: 首次发布，167 条化学式 |
+| 2026-05-13 | :tada: 首次发布，175 条化学式 |
 | 2026-05-13 | :bug: 修正拼音：`yanghuatie`→Fe₂O₃，`yanghuayatie`→FeO，`yatielizi`→Fe²⁺ |
 | 2026-05-13 | :heavy_plus_sign: 新增 `jiujing`(酒精) 别名 |
 | 2026-05-13 | :books: 完善 README 文档，添加分类说明 |
