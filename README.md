@@ -1,6 +1,6 @@
 <div align="center">
 
-# :test_tube: 搜狗输入法 · 初中化学式自定义短语
+# :test_tube: 中文输入法 · 初中化学式自定义短语
 
 [![搜狗输入法](https://img.shields.io/badge/输入法-搜狗输入法-orange?style=for-the-badge&logo=sogou)](https://shurufa.sogou.com)
 [![化学](https://img.shields.io/badge/学科-初中化学-blue?style=for-the-badge)](https://github.com/adidalin/sogou-chemistry-formulas)
@@ -8,7 +8,7 @@
 [![Last Commit](https://img.shields.io/github/last-commit/adidalin/sogou-chemistry-formulas?style=for-the-badge&logo=github)](https://github.com/adidalin/sogou-chemistry-formulas)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://github.com/adidalin/sogou-chemistry-formulas)
 
-**:rocket: 一套适用于搜狗输入法的初中化学式快捷输入配置文件**
+**:rocket: 一套适用于中文输入法的初中化学式快捷输入配置文件**
 
 涵盖 :atom_symbol: 单质 · :droplet: 氧化物 · :moyai: 酸 · :herb: 碱 · :gem: 盐 · :zap: 离子 · :seedling: 有机物 共 **7 大类 · 175 条化学式**
 
